@@ -1,0 +1,72 @@
+.header {
+    padding: 35px 0 23px;
+    background-color: #f9f1e6;
+
+    &__row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__wrap-logo {
+    }
+
+    &__link {
+        font-family: $fontRumRaisin;
+        font-size: 55px;
+        line-height: 129%;
+
+        color: #004529;
+    }
+
+    &__blank {
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 100%;
+
+        text-align: center;
+
+        color: #f1a0b5;
+    }
+
+    &__list {
+        display: flex;
+
+        font-weight: 900;
+        font-size: 23px;
+        line-height: 100%;
+    }
+
+    &__item {
+        margin-left: 46px;
+    }
+
+    &__ref {
+        padding: 17px 28px 16px 27px;
+        border-radius: 15px;
+        transition: all 0.3s ease 0s;
+        color: #004529;
+
+        &:hover {
+            background: #febc10;
+        }
+    }
+
+    &__wrap-button {
+        font-weight: 900;
+        font-size: 23px;
+        line-height: 100%;
+    }
+
+    &__button {
+        padding: 17px 28px 16px 27px;
+        border-radius: 15px;
+        transition: all 0.3s ease 0s;
+
+        color: #004529;
+
+        &:hover {
+            background: #febc10;
+        }
+    }
+}
