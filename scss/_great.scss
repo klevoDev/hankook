@@ -1,0 +1,27 @@
+.great {
+    &__subheading {
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 100%;
+
+        max-width: 572px;
+        margin: 0 auto;
+        text-align: center;
+
+        color: #02422a;
+
+        margin-bottom: 13px;
+    }
+
+    &__text {
+        font-size: 20px;
+        line-height: 125%;
+        text-align: center;
+        letter-spacing: 0.055em;
+
+        max-width: 541px;
+        margin: 0 auto;
+
+        color: #000000;
+    }
+}

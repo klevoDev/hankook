@@ -1,8 +1,6 @@
 # HANKOOK
 
 
-### MAKES SUSHI GREAT AGAIN.
+### MAKE SUSHI GREAT AGAIN 🍣 💪
 
-[![link](./img/hankook.png)]()
-
-You can see the mini-site practice [here]().
+You can see the mini-site practice [here](https://klevodev.github.io/hankook/).
