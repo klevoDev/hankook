@@ -154,9 +154,39 @@ body {
   background: #febc10;
 }
 
+.page__sushi {
+  background-color: #f5cee3;
+}
+
 .page .great {
   padding: 36px 0 35px;
   background-color: #fbbd14;
+}
+
+.sushi__heading {
+  position: absolute;
+  font-weight: 900;
+  font-size: 110px;
+  line-height: 110px;
+  max-width: 545px;
+  margin: 0 auto;
+  color: #02422a;
+  top: 280px;
+  left: 340px;
+}
+
+.sushi__row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.sushi__wrap-image {
+  margin: 36px 60px 50px 0;
+}
+
+.sushi__image {
+  position: relative;
 }
 
 .great__subheading {

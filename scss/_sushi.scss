@@ -1,2 +1,33 @@
-.start {
+.sushi {
+    &__heading {
+        position: absolute;
+        font-weight: 900;
+        font-size: 110px;
+        line-height: 110px;
+        max-width: 545px;
+        margin: 0 auto;
+
+        color: #02422a;
+
+        top: 280px;
+        left: 340px;
+    }
+
+    &__row {
+        display: flex;
+    }
+
+    &__wrap-image {
+        margin: 36px 60px 50px 0;
+    }
+
+    &__image {
+        position: relative;
+    }
+
+    &__wrap-img {
+    }
+
+    &__img {
+    }
 }
